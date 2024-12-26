@@ -1,0 +1,3 @@
+C:/Users/Nikita Khala/CLionProjects/OAIP/cmake-build-debug/CMakeFiles/OAIP.dir
+C:/Users/Nikita Khala/CLionProjects/OAIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikita Khala/CLionProjects/OAIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
