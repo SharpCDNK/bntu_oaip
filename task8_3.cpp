@@ -35,6 +35,14 @@ int main(){
             }
         }
     }
+
+    for(int i = 0; i < x;i++){
+        for(int j = 0; j < y; j++){
+            delete[] ar[i][j];
+        }
+        delete[] ar[i];
+    }
+    delete[] ar;
     std::cout << "\n\nCount of [i][j][10] = Q is " << count;
 
 }
