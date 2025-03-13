@@ -37,5 +37,4 @@ int main(){
 
     Znak b = {"Khala", "Nikita","Taurus", 9,5,2007};
     print(b);
-
 }
